@@ -1,0 +1,4 @@
+baseURL = 'https://shixzie.com/'
+languageCode = 'en-us'
+title = 'shixzie'
+theme = 'gokarna'
