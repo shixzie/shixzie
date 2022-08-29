@@ -43,7 +43,7 @@ enableRobotsTXT = true
 
 [params]
   # URL for the avatar on homepage
-#   avatarURL = "https://avatars.githubusercontent.com/u/21351290?v=4"
+  avatarURL = "/images/avatar.jpg"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
   avatarSize = "size-m"
